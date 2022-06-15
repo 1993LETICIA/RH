@@ -70,7 +70,7 @@ public class Main {
                     } else {
                         for (Funcionario f : pesquisa) {
                             System.out.println(f.dadosFormatados());
-                            System.out.println("-------------------");
+                            System.out.println("********************");
                         }
                     }
                 }
@@ -82,7 +82,7 @@ public class Main {
                     } else {
                         for (Funcionario f : lista) {
                             System.out.println(f.dadosFormatados());
-                            System.out.println("-------------------");
+                            System.out.println("********************");
                         }
                     }
                 }
